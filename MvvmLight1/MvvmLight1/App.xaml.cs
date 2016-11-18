@@ -12,5 +12,7 @@ namespace MvvmLight1
         {
             DispatcherHelper.Initialize();
         }
+
+        public string bla { get; set; }
     }
 }
